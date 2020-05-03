@@ -1,6 +1,17 @@
 body {
-    background-color: lightgreen;
+    background-color: lightgreen !important;
 }
+#grayOut{
+  background-color: lightgrey !important;
+  padding:10px;
+  margin:20px;
+}
+
+.devoured {
+  padding:10px;
+  margin:20px;
+}
+
 img {
     display: block;
     margin-left: auto;
@@ -23,9 +34,9 @@ h4, p {
   }
 
 input, .mainBtn {
-    display: block;
+    /* display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; */
 }
 
 
