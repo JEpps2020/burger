@@ -22,7 +22,7 @@ h4, p {
     color: coral;
   }
 
-textarea, button {
+input, .mainBtn {
     display: block;
     margin-left: auto;
     margin-right: auto;
